@@ -1,1 +1,2 @@
-# CreativeComputing_Final
+# creative_computing_final
+Final Project!
